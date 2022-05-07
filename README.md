@@ -1,4 +1,4 @@
-#Paper Pals
+# Paper Pals
 
 Paper Pals is an ERC1155 Smart Contract and was done as part of a 24h Code Jam challenge for DoinGud.
 
