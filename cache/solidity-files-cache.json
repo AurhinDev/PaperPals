@@ -1,0 +1,211 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\brick\\Desktop\\Paper Pals\\contracts\\Greeter.sol": {
+      "lastModificationDate": 1651922460138,
+      "contentHash": "54c28c84e5277b35b8c8329ce9755dae",
+      "sourceName": "contracts/Greeter.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Greeter"
+      ]
+    },
+    "C:\\Users\\brick\\Desktop\\Paper Pals\\node_modules\\hardhat\\console.sol": {
+      "lastModificationDate": 1651922460135,
+      "contentHash": "cc4777addd464ea56fa35b1c45df0591",
+      "sourceName": "hardhat/console.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "console"
+      ]
+    },
+    "C:\\Users\\brick\\Desktop\\Paper Pals\\contracts\\InkCoin.sol": {
+      "lastModificationDate": 1651925701732,
+      "contentHash": "73fd1ddd00742580f752c8b11e6f253f",
+      "sourceName": "contracts/InkCoin.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Context",
+        "ERC20",
+        "IERC20",
+        "IERC20Metadata",
+        "INKCoin",
+        "Ownable"
+      ]
+    },
+    "C:\\Users\\brick\\Desktop\\Paper Pals\\contracts\\PaperPals.sol": {
+      "lastModificationDate": 1651930347986,
+      "contentHash": "08757c8be08f83690f1fef53d7d0e95a",
+      "sourceName": "contracts/PaperPals.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0",
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Address",
+        "Context",
+        "ERC1155",
+        "ERC165",
+        "IERC1155",
+        "IERC1155MetadataURI",
+        "IERC1155Receiver",
+        "IERC165",
+        "IERC20",
+        "Ownable",
+        "PaperPals",
+        "Strings"
+      ]
+    },
+    "C:\\Users\\brick\\Desktop\\Paper Pals\\contracts\\UpgradeableProxy.sol": {
+      "lastModificationDate": 1651922935911,
+      "contentHash": "10ba469231d5c2d64d378f71cbc15aa9",
+      "sourceName": "contracts/UpgradeableProxy.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0",
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "Proxy",
+        "UpgradableProxy"
+      ]
+    }
+  }
+}
